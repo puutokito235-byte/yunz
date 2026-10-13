@@ -1,0 +1,6 @@
+{
+  "name": "Emerald Dev Portfolio",
+  "description": "Website cá nhân và showcase dự án với nền gradient xanh ngọc bích tỏa xanh dương đậm, hỗ trợ Code Drive, Code QR, Bảng màu và Kỹ năng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
